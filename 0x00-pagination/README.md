@@ -1,6 +1,7 @@
 # 0x00. Pagination
 
-![Example Image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/3646eb02de6527ca5d83.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230724%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230724T035117Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4a16a0705309b2ba4fceb4a28d2a9d2a06f5e978367cc0d5e5409f25f79cd450)
+![https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/3646eb02de6527ca5d83.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230724%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230724T035117Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4a16a0705309b2ba4fceb4a28d2a9d2a06f5e978367cc0d5e5409f25f79cd450]
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/746187b76bea1f46030e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230724%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230724T035117Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f8c2988c22cd95c330e2685efdd36255639c686a3878c7ebca31b5e459bc23b0)
 
 ## Resources
 ## Read or watch:
