@@ -25,3 +25,5 @@
 
 ## TASKS
 * [0-simple_helper_function.py](./0-simple_helper_function.py) 0. Simple helper function 
+* [1-simple_pagubation.py](./1-simple_pagubation.py) 1. Simple pagination 
+*
