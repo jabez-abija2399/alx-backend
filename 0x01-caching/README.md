@@ -40,3 +40,4 @@
 ## TASKS
 
 * [0-basic_cache.py](./0-basic_cache.py) 0. Basic dictionary 
+* [1-fifo_cache.py](./1-fifo_cache.py) 1. FIFO caching 
