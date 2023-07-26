@@ -44,3 +44,4 @@
 * [2-lifo_cache.py](./2-lifo_cache.py) 2. LIFO Caching
 * [3-lru_cache.py](./3-lru_cache.py) 3. LRU Caching 
 * [4-mru_cache.py](./4-mru_cache.py) 4. MRU Caching 
+* [100-lfu_cache.py](./100-lfu_cache.py) 5. LFU Caching 
