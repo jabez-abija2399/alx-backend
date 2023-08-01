@@ -28,3 +28,5 @@
     * All your functions and coroutines must be type-annotated.
 
 * ## Tasks
+ * [0-app.py](0-app.py)
+ * [0-index.html](0-index.html)
